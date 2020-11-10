@@ -1,0 +1,19 @@
+syntax: glob
+solution.disposechecksettings
+Dantas.suo
+Dantas.sln.docstates.suo
+Dantas.Support/obj/
+Dantas.Support/bin/
+Dantas.Process/obj/
+Dantas.Process/bin/
+Dantas.Data/obj/
+Dantas.Data/bin/
+Dantas.Data/Dantas.Data.csproj.user
+Dantas.Data.Tests/obj/
+Dantas.Data.Tests/bin/
+Dantas.Core/obj/
+Dantas.Core/bin/
+Dantas.Core/Dantas.Core.csproj.user
+Dantas.v11.suo
+Dantas.startup.suo
+*.suo
